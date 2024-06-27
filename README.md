@@ -1,5 +1,5 @@
-                                                                                                      ################ SalesSnap-Dashboard        ################### 
-                                                                                                             Google Colab a hosted Jupyter Notebook 
+                                               ################    SalesSnap-Dashboard   ################### 
+                                                         Google Colab a hosted Jupyter Notebook 
  
 
 
