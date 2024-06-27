@@ -1,5 +1,7 @@
-# SalesSnap-Dashboard
-SalesSnap Dashboard
+                                                                                                      ################ SalesSnap-Dashboard        ################### 
+                                                                                                             Google Colab a hosted Jupyter Notebook 
+ 
+
 
 # Necessary packages are installed
 !pip install streamlit pyngrok plotly duckdb pandas openpyxl
